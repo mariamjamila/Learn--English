@@ -1,0 +1,10 @@
+.service-container{
+  
+    margin: 10px;
+    padding: 10px;
+}
+
+.service-container img{
+    width: 400px;
+    height: 300px;
+}

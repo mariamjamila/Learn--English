@@ -1,0 +1,15 @@
+.about{
+    border:3px solid rgb(61, 42, 165);
+    border-radius: 15px;
+    margin: 10px;
+    padding: auto;
+}
+
+.about h2{
+    color: blue;
+}
+
+.about h4{
+   
+    color: coral;
+}

@@ -1,0 +1,84 @@
+[
+    {
+        "id":"123",
+        "course":"English For Housewives",
+        "Hours":"18 hours per week",
+        "level":"Elementary",
+        "Fees":" 1800",
+        "Description":"Whatever motivates you to learn, our courses can make your dreams a reality. Whether it’s career progression, the chance to live and work abroad, or the challenge of mastering a new skill, our highly qualified teachers will help you progress. ",
+        "pic":"https://image.freepik.com/free-photo/women-cooking-class-friendly-atmosphere-healthy-meal-young-females-making-special-recipe_279525-7644.jpg"
+    },
+    {
+        "id":"143",
+        "course":"English For Teens ",
+        "Hours":"18 hours per week",
+        "level":"Intermediate",
+        "Fees":" 1800",
+        "Description":"Whatever motivates you to learn, our courses can make your dreams a reality. Whether it’s career progression, the chance to live and work abroad, or the challenge of mastering a new skill, our highly qualified teachers will help you progress. ",
+        "pic":"https://as1.ftcdn.net/v2/jpg/00/61/91/26/500_F_61912628_JzhU9ccrDuviEH9OszinZFFmWaHPDweN.jpg"
+    },
+    {
+        "id":"134",
+        "course":"English For Business",
+        "Hours":"18 hours per week",
+        "level":"Intermediate",
+        "Fees":" 1800",
+        "Description":"Whatever motivates you to learn, our courses can make your dreams a reality. Whether it’s career progression, the chance to live and work abroad, or the challenge of mastering a new skill, our highly qualified teachers will help you progress. ",
+        "pic":"https://image.freepik.com/free-photo/group-diverse-people-having-business-meeting_53876-25060.jpg"
+    },
+
+    {
+        "id":"144",
+        "course":"English For kids",
+        "Hours":"18 hours per week",
+        "level":"Elementary",
+        "Fees":" 1200",
+        "Description":"Whatever motivates you to learn, our courses can make your dreams a reality. Whether it’s career progression, the chance to live and work abroad, or the challenge of mastering a new skill, our highly qualified teachers will help you progress. ",
+        "pic":"https://image.freepik.com/free-photo/close-up-cheerful-student-with-red-t-shirt_1098-3806.jpg"
+    },
+    {
+        "id":"666",
+        "course":"English For General Purpose",
+        "Hours":"18 hours per week",
+        "level":"Elementary",
+        "Fees":" 9000",
+        "Description":"Whatever motivates you to learn, our courses can make your dreams a reality. Whether it’s career progression, the chance to live and work abroad, or the challenge of mastering a new skill, our highly qualified teachers will help you progress. ",
+        "pic":"https://image.freepik.com/free-photo/everyone-is-smiling-listens-group-people-business-conference-modern-classroom-daytime_146671-16288.jpg"
+    },
+    {
+        "id":"123",
+        "course":"English For Everyone",
+        "Hours":"18 hours per week",
+        "level":"Elementary",
+        "Fees":" 1000",
+        "Description":"Whatever motivates you to learn, our courses can make your dreams a reality. Whether it’s career progression, the chance to live and work abroad, or the challenge of mastering a new skill, our highly qualified teachers will help you progress. ",
+        "pic":"https://image.freepik.com/free-photo/multi-ethnic-group-young-men-women-studying-indoors_1139-989.jpg"
+    },
+    {
+        "id":"444",
+        "course":"English For Special Purpose",
+        "Hours":"18 hours per week",
+        "level":["Elementary","Intermediate", "Advanced"],
+        "Fees":" 30000",
+        "Description":"Whatever motivates you to learn, our courses can make your dreams a reality. Whether it’s career progression, the chance to live and work abroad, or the challenge of mastering a new skill, our highly qualified teachers will help you progress. ",
+        "pic":"https://image.freepik.com/free-photo/group-young-people-sitting-conference-together_58466-11188.jpg"
+    },
+    {
+        "id":"445",
+        "course":"IELTS Course",
+        "Hours":"18 hours per week",
+        "level":["Elementary","Intermediate", "Advanced"],
+        "Fees":" 30000",
+        "Description":"Whatever motivates you to learn, our courses can make your dreams a reality. Whether it’s career progression, the chance to live and work abroad, or the challenge of mastering a new skill, our highly qualified teachers will help you progress. ",
+        "pic":"https://image.freepik.com/free-photo/young-english-teacher-doing-her-class-online_23-2149019781.jpg"
+    },
+    {
+        "id":"446",
+        "course":"Training For English Teachers",
+        "Hours":"18 hours per week",
+        "level":"All Levels",
+        "Fees":" 30000",
+        "Description":"Whatever motivates you to learn, our courses can make your dreams a reality. Whether it’s career progression, the chance to live and work abroad, or the challenge of mastering a new skill, our highly qualified teachers will help you progress. ",
+        "pic":"https://image.freepik.com/free-photo/barded-man-suit-holding-cane_155003-2312.jpg"
+    }
+]
