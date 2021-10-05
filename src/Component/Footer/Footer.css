@@ -1,5 +1,11 @@
 .footer{
-    background-color: mediumblue;
-    
+    background-color: rgb(20, 20, 20);
+    height: 200px;
 }
+.container{
+    margin: 10px;
+    padding: 15px;
+    color: white;
+}
+
  
